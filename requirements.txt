@@ -1,0 +1,40 @@
+# =========================
+# macOS 보안 점검 애플리케이션 의존성
+# macOS Security Check Application Dependencies
+# =========================
+
+# PDF 보고서 생성을 위한 라이브러리
+# Library for PDF report generation
+reportlab>=4.0.0
+
+# HTTP 요청을 위한 라이브러리
+# Library for HTTP requests
+requests>=2.31.0
+
+# SSL 인증서 검증 우회를 위한 라이브러리
+# Library for SSL certificate verification bypass
+urllib3>=2.0.0
+
+# GUI 애플리케이션을 위한 라이브러리
+# Library for GUI application
+PyQt6>=6.5.0
+
+# JSON 처리 및 데이터 직렬화
+# JSON processing and data serialization
+# (Python 표준 라이브러리 / Python standard library)
+
+# 시스템 명령어 실행
+# System command execution
+# (Python 표준 라이브러리 / Python standard library)
+
+# 로깅 및 파일 처리
+# Logging and file processing
+# (Python 표준 라이브러리 / Python standard library)
+
+# 날짜 및 시간 처리
+# Date and time processing
+# (Python 표준 라이브러리 / Python standard library)
+
+# 타입 힌트 지원
+# Type hint support
+# (Python 3.8+ 표준 라이브러리 / Python 3.8+ standard library)

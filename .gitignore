@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtual environment
+venv/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Editor / OS leftovers
+.DS_Store
+tempCodeRunnerFile.*
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local secrets (do not commit)
+config.local.py
+.env
+.env.*
